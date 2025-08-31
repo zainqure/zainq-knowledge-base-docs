@@ -1,3 +1,6 @@
+---
+title: Basic
+---
 # Basics
 
 This section covers the foundations of nutrition.

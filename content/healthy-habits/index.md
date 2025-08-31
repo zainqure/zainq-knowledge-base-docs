@@ -1,3 +1,6 @@
+---
+title: Healthy Habits
+---
 # Healthy Habits
 
 Lasting health comes from daily habits.

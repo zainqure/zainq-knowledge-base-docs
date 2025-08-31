@@ -1,3 +1,6 @@
+---
+title: Diets
+---
 # Diets
 
 There are many different eating styles and diets.

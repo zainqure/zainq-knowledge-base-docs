@@ -1,3 +1,6 @@
+---
+title: Diseases
+---
 # Diseases
 
 Good nutrition can help prevent many health problems.

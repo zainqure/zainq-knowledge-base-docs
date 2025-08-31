@@ -6,7 +6,7 @@ title: Balanced Living
 Welcome to **Balanced Living** !
 
 This knowledge base will help you understand how nutrition, healthy habits, and lifestyle choices all work together for better health and well-being.  
-## Main Topics
+## Main Categories
 
 - [[basics/index|Basics]]
 - [[diets/index|Diets]]

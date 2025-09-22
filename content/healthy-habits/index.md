@@ -5,7 +5,11 @@ title: Healthy Habits
 
 Lasting health comes from daily habits.
 
+![Healthy Habits Image](assets/healthyhabits.png)
+
 This section provides tips on meal planning, hydration, exercise, and sleep — all of which are key to balanced living.
+
+![Open Healthy Habits PDF](assets/healthyhabits.pdf)
 ## Explore Healthy Habits
 - [[sleep|Importance of Sleep]]
 - [[exercise|Exercise and Movement]]
